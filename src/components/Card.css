@@ -1,20 +1,22 @@
 .card {
   margin: 20px;
   width: 18rem;
+  background-color: rgba(128, 128, 128, 0.511);
+  color: white;
 }
 
 .card-title {
   margin-bottom: 15px;
+  color: white
 }
 
 #closeIcon {
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 8px;
+  position: absolute;
   margin-top: 8px;
+  left: 93%;
 }
 
 .card-body {
-  margin-top: 0px !important;
+  margin-top: 10px !important;
   padding-top: 0px !important;
 }

@@ -1,0 +1,16 @@
+.about_text{
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+.about_container{
+    position: absolute;
+    top: 36%;
+    left: 5%;
+    opacity: 90%;
+    background: gray;
+    width: auto;
+    padding: 10px 20px 10px 20px;
+    border-radius: 15px;
+}
